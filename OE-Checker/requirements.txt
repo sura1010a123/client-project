@@ -2,3 +2,6 @@ streamlit
 sentence-transformers
 pandas
 scikit-learn
+gunicorn
+numpy
+torch
